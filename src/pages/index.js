@@ -36,10 +36,7 @@ export default function Home({ allPostData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
-          私はフロントエンドエンジニアです。Javascript, React,
-          Next.jsを使っています
-        </p>
+        <p>私はフロントエンドエンジニアです。React, Next.jsを学習しています</p>
       </section>
 
       <section>
